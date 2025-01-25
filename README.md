@@ -138,7 +138,7 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 
 ## 📧 Kontak
 
-Project Link: [https://github.com/yourusername/edumap-plus](https://github.com/yourusername/edumap-plus)
+Project Link: [https://github.com/dzakwanalifi/edumap-plus](https://github.com/dzakwanalifi/edumap-plus)
 
 ## 🙏 Acknowledgments
 
