@@ -1,7 +1,7 @@
 # EDUMAP+: Sistem Penilaian Kelayakan Sekolah Berbasis AI dengan Data Spasial
 
 <div align="center">
-  <img src="public/logo.png" alt="EDUMAP+ Logo" width="200"/>
+  <img src="src/assets/logo.png" alt="EDUMAP+ Logo" width="200"/>
   <p><strong>Solusi Cerdas untuk Pemetaan dan Evaluasi Kelayakan Sekolah</strong></p>
   
   [![Netlify Status](https://api.netlify.com/api/v1/badges/edumapplus/deploy-status)](https://app.netlify.com/sites/edumapplus/deploys)       
